@@ -25,8 +25,9 @@ task1.logTaskState(); // Clean Cat Litter has not been completed
 task1.completeTask();
 task1.logTaskState(); // Clean Cat Litter has been completed
 
-task2.logTaskState();
+task2.logTaskState(); // Do Laundry has not been completed
 task2.completeTask();
-task2.logTaskState();
+task2.logTaskState(); // Do Laundry has been completed
 
+// Let's see what are objects look like :)
 console.log(tasks);
